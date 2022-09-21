@@ -4,11 +4,11 @@ O Adventure bot saiu de um desafio da influenciadora Rafaela Ballerini, o objeti
 
 ## Abaixo algumas imagens e gifs sobre o projeto
 
-![preview](./.github/preview.png)
+![preview](./preview.png)
 
 - Animações no botão "Me Adicione", links e no BMO.
 
-![preview](./.github/gif.gif)
+![preview](./gif.gif)
 
 # Links
 
