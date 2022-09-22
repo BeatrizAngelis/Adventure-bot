@@ -2,6 +2,8 @@
 
 O Adventure bot saiu de um desafio da influenciadora Rafaela Ballerini, o objetivo era criar o que seria uma landing page de um bot para discord.
 
+[ Clique aqui para acessar](https://beatrizangelis.github.io/Adventure-bot/)
+
 ## Abaixo algumas imagens e gifs sobre o projeto
 
 ![preview](./preview.png)
